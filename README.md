@@ -23,13 +23,9 @@ This project is a simple web-based attendance management system for schools. It 
 ### Installation
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/kuinet-attendance-form.git
-   ```
+
 2. **Navigate to the project folder**:
-   ```bash
-   cd kuinet-attendance-form
-   ```
+  
 3. **Open the `index.html` file** in your preferred browser to start using the app.
 
 ## Usage
